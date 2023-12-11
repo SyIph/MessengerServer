@@ -1,0 +1,3 @@
+﻿address="localhost"
+port="8080"
+connection_string="Server=.\SQLEXPRESS_MESSG;Database=MessengerDB;User ID=messenger_server;Password=123;TrustServerCertificate=True;"

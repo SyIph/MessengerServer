@@ -1,0 +1,16 @@
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\MessengerServer.exe
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\MessengerServer.deps.json
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\MessengerServer.runtimeconfig.json
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\MessengerServer.runtimeconfig.dev.json
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\MessengerServer.dll
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\ref\MessengerServer.dll
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\bin\Debug\net5.0\MessengerServer.pdb
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.csproj.AssemblyReference.cache
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.AssemblyInfoInputs.cache
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.AssemblyInfo.cs
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.csproj.CoreCompileInputs.cache
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.dll
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\ref\MessengerServer.dll
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.pdb
+C:\OwnGame\Messenger\MessengerServer\MessengerServer\obj\Debug\net5.0\MessengerServer.genruntimeconfig.cache
